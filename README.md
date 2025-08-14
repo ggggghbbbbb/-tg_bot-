@@ -20,6 +20,7 @@ CHECK_INTERVAL = 180  # 检查间隔（秒）
 STOCK_PATTERN = r'库存\((\d+)\)'  # 匹配库存的正则表达式
 PRICE_PATTERN = r'价格\s*(\d+\.\d+)'  # 匹配价格的正则表达式
 MAX_WORKERS = 5  # 并发线程数
+```
 
 <img width="368" height="183" alt="image" src="https://github.com/user-attachments/assets/1e29c86c-af91-4236-ae96-b1b7c6d1faf4" />
 
